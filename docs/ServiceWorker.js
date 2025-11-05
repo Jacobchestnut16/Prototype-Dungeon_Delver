@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-Prototype-Dungeon_Delver-1.0";
+const cacheName = "Chestnuts Programming-Prototype-Dungeon_Delver-1.0";
 const contentToCache = [
     "Build/Build.loader.js",
     "Build/Build.framework.js",
